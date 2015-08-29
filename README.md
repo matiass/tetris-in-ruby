@@ -5,8 +5,8 @@
 <h4>Windows</h4>
 <ol><li><p>Go to http://www.rubyinstaller.org/, click on the giant red ‘Download’ button, and click on the Ruby 1.9.3 RubyInstaller (Ruby 1.9.3-p385).</p></li>
 <li><p>Run the installer.</p></li>
-<li><p>– Accept the License.</p>
-<p>– On the next screen, click all three boxes: Install Tcl/Tk support, Add Ruby executables
+<li><p>– Accept the License.</p></li>
+<li><p>– On the next screen, click all three boxes: Install Tcl/Tk support, Add Ruby executables
 to your PATH, and Associate .rb and .rbw files with this Ruby installation.</p></li>
 <li><p>– Then click Install</p></li>
 </ol>
